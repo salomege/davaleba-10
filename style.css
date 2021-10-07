@@ -102,3 +102,17 @@ margin-left: 240px;
 	height: 82px;
 	margin-right: 25px;
 }
+.block {
+	display: inline-block;
+}
+.name {
+	width: 226px;
+}
+.text {
+	display: flex;
+	width: 463px;
+}
+.textt {
+	display: inline-block;
+}
+
